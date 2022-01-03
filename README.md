@@ -1,6 +1,6 @@
 # Incadores Técnicos
 
-Projeto 1: Médias Móveis
+*Projeto 1:* Médias Móveis
 
 Bibliotecas utilizadas:
 
