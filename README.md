@@ -1,4 +1,4 @@
-# Incadores Técnicos
+# Indicadores Técnicos
 
 *Projeto 1:* Médias Móveis
 
