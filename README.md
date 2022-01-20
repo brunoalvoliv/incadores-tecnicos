@@ -1,6 +1,6 @@
 # Indicadores Técnicos
 
-*Projeto 1:* Médias Móveis
+***Projeto 1:* Médias Móveis
 
 Bibliotecas utilizadas:
 
@@ -24,7 +24,7 @@ Wikipédia: https://pt.wikipedia.org/wiki/M%C3%A9dia_m%C3%B3vel
 
 Script: https://github.com/brunoalvoliv/incadores-tecnicos/blob/main/medias_moveis.ipynb
 
-*Projeto 2:* Long & Short por cointegração
+***Projeto 2:* Long & Short por cointegração
 
 Bibliotecas utilizadas:
 
